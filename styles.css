@@ -1,0 +1,173 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.secone {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+    margin: auto;
+    background-color: #d4c5e4;
+    padding: 10px; 
+}
+.secone img {
+    max-width: 150px;
+    margin-right: auto;
+
+}
+.secone a {
+    padding: 10px;
+    font-family: 'Gaegu', sans-serif;
+    font-size: 23px;
+    color: black;
+    text-decoration: none;
+}
+.secone a:hover {
+    color: #ece6f4;
+}
+.sectwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    background-color: #d4c5e4;
+    padding: 30px;
+}
+.sectwo img {
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.sectwo h1 {
+    font-family: 'Gaegu', sans-serif;
+}
+.sectwo p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    max-width: 300px;
+}
+.sectwo button {
+    border: none;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #ece6f4;
+    font-size: 18px;
+
+}
+.sectwo button:hover {
+    background-color: #d4c5e4;
+
+}
+.secthree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #ece6f4;
+    padding: 30px;
+}
+.secthree h2 {
+    font-family: 'Gaegu', sans-serif;
+    font-size: 22px;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    background-color: #ece6f4;
+    padding: 0px 30px;
+    
+}
+.icons img {
+    max-width: 150px;
+}
+.subtext {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    background-color: #ece6f4;
+    padding: 30px;
+}
+.subtext p { 
+    max-width: 150px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.secfour {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: flex-end;
+    margin: auto;
+    background-color: white;
+    padding: 0;
+    
+}
+.secfour p {
+    max-width: 600px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+}
+.secfourmore {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: auto;
+    background-color: white;
+    max-width: 600px;
+    font-family: 'Gaegu', sans-serif;
+    font-size: 22px;
+    padding: 0;
+}
+.secfive {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    background-color: #ece6f4;
+    padding: 30px;
+}
+.secfive .action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 800px;
+}
+.secfive h4 {
+    font-family: 'Gaegu', sans-serif;
+    font-size: 20px;
+}
+.secfive p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    max-width: 300px;
+}
+.secfive button {
+    border: none;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #ece6f4;
+    font-size: 28px;
+
+}
+.secfive button:hover {
+    background-color: #d4c5e4;
+}
+.secsix {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #ece6f4;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
